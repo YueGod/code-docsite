@@ -13,7 +13,7 @@ export default {
             link: '/en-us/docs/quick-start.html',
           },
           {
-            title: 'Property configuration.md',
+            title: 'Property configuration',
             link: '/en-us/docs/properties-config.html',
           },
         ],
