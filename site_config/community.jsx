@@ -153,7 +153,7 @@ export default {
             },
             {
               text: 'tag3',
-              link: '/en-us/docs/demo1.html',
+              link: '/en-us/docs/quick-start.html',
               bgColor: '#00D0D9',
             },
             {
@@ -318,7 +318,7 @@ export default {
             },
             {
               text: '标签3',
-              link: '/zh-cn/docs/demo1.html',
+              link: '/zh-cn/docs/quick-start.html',
               bgColor: '#00D0D9',
             },
             {

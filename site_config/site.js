@@ -15,7 +15,7 @@ export default {
       {
         key: 'docs',
         text: 'DOCS',
-        link: '/en-us/docs/demo1.html',
+        link: '/en-us/docs/quick-start.html',
       },
       {
         key: 'blog',
@@ -37,7 +37,7 @@ export default {
       list: [
         {
           text: 'Overview',
-          link: '/en-us/docs/demo1.html',
+          link: '/en-us/docs/quick-start.html',
         },
         {
           text: 'Quick start',
@@ -74,7 +74,7 @@ export default {
       {
         key: 'docs',
         text: '文档',
-        link: '/zh-cn/docs/demo1.html',
+        link: '/zh-cn/docs/quick-start.html',
       },
       {
         key: 'blog',
@@ -96,7 +96,7 @@ export default {
       list: [
         {
           text: '概览',
-          link: '/zh-cn/docs/demo1.html',
+          link: '/zh-cn/docs/quick-start.html',
         },
         {
           text: '快速开始',

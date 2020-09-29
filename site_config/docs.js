@@ -2,25 +2,19 @@ export default {
   'en-us': {
     sidemenu: [
       {
-        title: 'header title',
+        title: 'swagger-doc',
         children: [
           {
-            title: 'demo1',
-            link: '/en-us/docs/demo1.html',
+            title: 'Description',
+            link: '/en-us/docs/description.html',
           },
           {
-            title: 'demo2',
-            link: '/en-us/docs/demo2.html',
+            title: 'Quick start',
+            link: '/en-us/docs/quick-start.html',
           },
           {
-            title: 'dir',
-            opened: true,
-            children: [
-              {
-                title: 'demo3',
-                link: '/en-us/docs/dir/demo3.html',
-              },
-            ],
+            title: 'Property configuration.md',
+            link: '/en-us/docs/properties-config.html',
           },
         ],
       },
@@ -30,25 +24,19 @@ export default {
   'zh-cn': {
     sidemenu: [
       {
-        title: '大标题',
+        title: 'swagger-doc',
         children: [
           {
-            title: '示例1',
-            link: '/zh-cn/docs/demo1.html',
+            title: '产品描述',
+            link: '/zh-cn/docs/description.html',
           },
           {
-            title: '示例2',
-            link: '/zh-cn/docs/demo2.html',
+            title: '快速开始',
+            link: '/zh-cn/docs/quick-start.html',
           },
           {
-            title: '目录',
-            opened: true,
-            children: [
-              {
-                title: '示例3',
-                link: '/zh-cn/docs/dir/demo3.html',
-              },
-            ],
+            title: '属性配置',
+            link: '/zh-cn/docs/properties-config.html',
           },
         ],
       },
